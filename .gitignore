@@ -1,0 +1,20 @@
+# Exclude original source files (they are organized in subfolders now)
+CVE-2022-30524.mkv
+CVE-2022-30524.pdf
+CVE-2022-31103.mkv
+CVE-2022-31103.pdf
+CVE-2022-31626.mkv
+CVE-2022-31626.pdf
+CVE-2022-32996.mkv
+CVE-2022-32996.pdf
+CVE-2022-44118.mkv
+CVE-2022-44118.pdf
+Low_Saptangs.pdf
+
+# Exclude scripts and research notes
+extract_pdfs.py
+research_text/
+
+# System files
+.DS_Store
+Thumbs.db
