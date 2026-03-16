@@ -1,4 +1,4 @@
-# Inter IIT Tech Meet 11.0 - Cybersecurity Solutions 🥇
+# Inter IIT Tech Meet 11.0 - Solution to Cybersec PS by Saptang Labs🥇
 
 This repository contains the Gold Medal-winning solutions for the **Cybersecurity Problem Statement: "Sneaking into the Cyber-Cracks"** at the Inter IIT Tech Meet 11.0, held at IIT Kanpur.
 
