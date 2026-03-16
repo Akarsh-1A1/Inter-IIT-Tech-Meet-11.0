@@ -2,7 +2,7 @@
 
 This repository contains the Gold Medal-winning solutions for the **Cybersecurity Problem Statement: "Sneaking into the Cyber-Cracks"** at the Inter IIT Tech Meet 11.0, held at IIT Kanpur.
 
-Developed by the team from **[Insert Your IIT Name]**, these solutions demonstrate advanced skills in web application security, exploit development, and technical reporting.
+Developed by the team from **IIT Indore**, these solutions demonstrate advanced skills in web application security, exploit development, and technical reporting.
 
 ## 🌟 Achievement: GOLD MEDAL
 The competition challenged teams to develop Proof-of-Concept (PoC) exploits for real-world high-severity vulnerabilities (CVEs) in web-based applications. Our team successfully analyzed, reproduced, and documented 5 major vulnerabilities, securing the top spot.
