@@ -46,7 +46,7 @@ Each vulnerability folder contains:
 ---
 
 ## 👨‍💻 The Team
-*Documentation for the Inter IIT Tech Meet 11.0 Gold-winning contingent.*
+*Documentation for the Inter IIT Tech Meet 11.0 Cybersec Gold winning solution.*
 
 ---
 *Disclaimer: This repository is for educational and ethical security research purposes only. All exploits were developed in controlled, authorized environments.*
