@@ -32,10 +32,10 @@ Participants were evaluated on their ability to:
 | CVE ID | Vulnerability Type | Target Software | Severity | Impact |
 |:---|:---|:---|:---|:---|
 | [CVE-2022-31626](./Vulnerabilities/CVE-2022-31626) | Buffer Overflow | PHP `pdo_mysql` / `mysqlnd` | HIGH (8.8) | Remote Code Execution |
-| [CVE-2022-44118](./Vulnerabilities/CVE-2022-44118) | Incomplete Blacklist Bypass | DedeCMS v6.1.9 | CRITICAL (9.8) | Remote Code Execution |
-| [CVE-2022-32996](./Vulnerabilities/CVE-2022-32996) | Supply-Chain Backdoor | `django-navbar-client` | CRITICAL (9.8) | Arbitrary Code Execution |
+| [CVE-2022-44118](./Vulnerabilities/CVE-2022-44118) | Incomplete Blacklist Bypass | DedeCMS v6.1.9 | CRITICAL (9.8) | Full system compromise|
+| [CVE-2022-32996](./Vulnerabilities/CVE-2022-32996) | Supply-Chain Backdoor | `django-navbar-client` | CRITICAL (9.8) | Sensitive data theft |
 | [CVE-2022-30524](./Vulnerabilities/CVE-2022-30524) | Invalid Memory Access | Xpdf 4.0.4 (`pdftotext`) | HIGH (7.8) | Denial of Service |
-| [CVE-2022-31103](./Vulnerabilities/CVE-2022-31103) | DOM-based DoS | `lettersanitizer` / `react-letter` | HIGH (7.5) | Denial of Service |
+| [CVE-2022-31103](./Vulnerabilities/CVE-2022-31103) | DOM-based DoS | `lettersanitizer` / `react-letter` | HIGH (7.5) | Application unresponsive |
 
 ---
 
