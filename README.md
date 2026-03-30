@@ -1,4 +1,4 @@
-# Inter IIT Tech Meet 11.0 — Cybersecurity Solutions
+# Inter IIT Tech Meet 11.0 — Cybersecurity PS Solution
 
 **Gold Medal | Sneaking into the Cyber-Cracks | Saptang Labs**
 
@@ -7,8 +7,9 @@
 ## About
 
 This repository contains the **Gold Medal-winning** solutions for the cybersecurity problem statement *"Sneaking into the Cyber-Cracks"* at **Inter IIT Tech Meet 11.0**, held at IIT Kanpur.
+Developed by the team from **IIT Indore**, these solutions demonstrate advanced skills in web application security, exploit development, and technical reporting.
 
-The challenge, presented by **Saptang Labs**, required participating teams to develop professional Proof-of-Concept (PoC) exploits for real-world, high-severity CVEs in web-based applications. Our team successfully analyzed, reproduced, and documented **5 vulnerabilities** spanning buffer overflows, supply-chain backdoors, remote code execution, and denial-of-service attacks — securing the top position in the competition.
+The challenge, presented by **Saptang Labs**, required participating teams to develop professional Proof-of-Concept (PoC) exploits for real-world, high-severity CVEs in web-based applications. Our team successfully analyzed, reproduced, and documented **5 vulnerabilities** spanning buffer overflows, supply-chain backdoors, remote code execution, and denial-of-service attacks securing the top spot.
 
 ---
 
@@ -88,8 +89,8 @@ Each vulnerability directory contains:
 
 ## Disclaimer
 
-This repository is published for **educational and ethical security research purposes only**. All exploits were developed and demonstrated in controlled, authorized environments as part of an academic competition. The authors do not condone or encourage the use of these techniques for unauthorized access to any system.
+This repository is published for **educational and ethical security research purposes only**. All exploits were developed and demonstrated in controlled, authorized environments as part of an academic competition.
 
 ---
 
-*Inter IIT Tech Meet 11.0 — Gold Medal, Cybersecurity Division*
+*Inter IIT Tech Meet 11.0 — Gold Medal winning solution by team from IIT Indore*
