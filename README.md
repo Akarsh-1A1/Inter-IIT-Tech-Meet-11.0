@@ -1,6 +1,6 @@
 # Inter IIT Tech Meet 11.0 — Cybersecurity PS Solution
 
-**Gold Medal | Sneaking into the Cyber-Cracks | Saptang Labs**
+**Gold Medal winning solution | Sneaking into the Cyber-Cracks | Saptang Labs**
 
 ---
 
