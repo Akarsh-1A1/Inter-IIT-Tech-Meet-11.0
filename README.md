@@ -1,12 +1,13 @@
 # Inter IIT Tech Meet 11.0 — Cybersecurity PS Solution
 
-**Gold Medal winning solution | Sneaking into the Cyber-Cracks | Saptang Labs**
+**Gold Medal 🥇 winning solution | Sneaking into the Cyber-Cracks | Saptang Labs**
 
 ---
 
 ## About
 
 This repository contains the **Gold Medal-winning** solutions for the cybersecurity problem statement *"Sneaking into the Cyber-Cracks"* at **Inter IIT Tech Meet 11.0**, held at IIT Kanpur.
+
 Developed by the team from **IIT Indore**, these solutions demonstrate advanced skills in web application security, exploit development, and technical reporting.
 
 The challenge, presented by **Saptang Labs**, required participating teams to develop professional Proof-of-Concept (PoC) exploits for real-world, high-severity CVEs in web-based applications. Our team successfully analyzed, reproduced, and documented **5 vulnerabilities** spanning buffer overflows, supply-chain backdoors, remote code execution, and denial-of-service attacks securing the top spot.
